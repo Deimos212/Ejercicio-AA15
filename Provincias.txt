@@ -1,0 +1,56 @@
+Informacion geopolitica de España: Provincias y sus capitales
+
+Provincia: A Coruña		-		Capital: A Coruña
+Provincia: Alacant		-		Capital: Alacant
+Provincia: Albacete		-		Capital: Albacete
+Provincia: Almería		-		Capital: Almería
+Provincia: Araba		-		Capital: Araba
+Provincia: Asturias		-		Capital: Asturias
+Provincia: Badajoz		-		Capital: Badajoz
+Provincia: Barcelona		-		Capital: Barcelona
+Provincia: Bizkaia		-		Capital: Bizkaia
+Provincia: Burgos		-		Capital: Burgos
+Provincia: Cantabria		-		Capital: Cantabria
+Provincia: Castelló		-		Capital: Castelló
+Provincia: Ceuta		-		Capital: Ceuta
+Provincia: Ciudad Real		-		Capital: Ciudad Real
+Provincia: Cuenca		-		Capital: Cuenca
+Provincia: Cáceres		-		Capital: Cáceres
+Provincia: Cádiz		-		Capital: Cádiz
+Provincia: Córdoba		-		Capital: Córdoba
+Provincia: Gipuzcoa		-		Capital: Gipuzcoa
+Provincia: Girona		-		Capital: Girona
+Provincia: Granada		-		Capital: Granada
+Provincia: Guadalajara		-		Capital: Guadalajara
+Provincia: Huelva		-		Capital: Huelva
+Provincia: Huesca		-		Capital: Huesca
+Provincia: Illes Balears		-		Capital: Illes Balears
+Provincia: Jaén		-		Capital: Jaén
+Provincia: La Rioja		-		Capital: La Rioja
+Provincia: Las Palmas		-		Capital: Las Palmas
+Provincia: León		-		Capital: León
+Provincia: Lleida		-		Capital: Lleida
+Provincia: Lugo		-		Capital: Lugo
+Provincia: Madrid		-		Capital: Madrid
+Provincia: Melilla		-		Capital: Melilla
+Provincia: Murcia		-		Capital: Murcia
+Provincia: Málaga		-		Capital: Málaga
+Provincia: Navarra		-		Capital: Navarra
+Provincia: Ourense		-		Capital: Ourense
+Provincia: Palencia		-		Capital: Palencia
+Provincia: Pontevedra		-		Capital: Pontevedra
+Provincia: Salamanca		-		Capital: Salamanca
+Provincia: Santa Cruz de Tenerife		-		Capital: Santa Cruz de Tenerife
+Provincia: Segovia		-		Capital: Segovia
+Provincia: Sevilla		-		Capital: Sevilla
+Provincia: Soria		-		Capital: Soria
+Provincia: Tarragona		-		Capital: Tarragona
+Provincia: Teruel		-		Capital: Teruel
+Provincia: Toledo		-		Capital: Toledo
+Provincia: Valladolid		-		Capital: Valladolid
+Provincia: València		-		Capital: València
+Provincia: Zamora		-		Capital: Zamora
+Provincia: Zaragoza		-		Capital: Zaragoza
+Provincia: Ávila		-		Capital: Ávila
+
+Informacion obtenida para el usuario Eduardo López con ID 2857 el 12/09/2022
